@@ -1,6 +1,6 @@
-# 100DaysofML-Day5
+### 100DaysofML-Day5
 
-# Simple Neural Network with TensorFlow & Keras
+# Neural Network with TensorFlow & Keras
 
 This project demonstrates how to build a simple feedforward neural network using TensorFlow and Keras for the Pima Indians Diabetes dataset.
 
